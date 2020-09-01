@@ -1,0 +1,22 @@
+$darkest-color: hsl(217, 19%, 35%);
+$dark-color: hsl(214, 17%, 51%);
+$light-color: hsl(212, 23%, 69%);
+$lightest-color: hsl(210, 46%, 95%);
+$Article-Background: white;
+$Header-font : 'Manrope', sans-serif;
+h1{
+	font-family: $Header-font;
+    font-size: 17px;
+    font-weight: 700;
+}
+h4{
+    font-family: $Header-font;
+    font-size: 15px;
+    font-weight: 500;
+}
+p{
+    font-size: 14px
+}
+button{
+	border: none;
+}

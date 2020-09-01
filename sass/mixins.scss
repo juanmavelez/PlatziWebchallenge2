@@ -1,0 +1,9 @@
+@mixin iconSize {
+    width: 40px;
+    height: 40px;
+}
+@mixin centrar{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
